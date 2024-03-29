@@ -1,39 +1,39 @@
 #EXTM3U name="电视节目单"
-#EXTINF: -1 tvg-id="cctv-1" tvg-name="CCTV-1(综合)" group-title="央视频道", CCTV-综合「高清」
+#EXTINF: -1 tvg-id="cctv-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" tvg-name="CCTV-1(综合)" group-title="央视频道", CCTV-综合「高清」
 http://116.232.152.209:8888/udp/239.45.3.145:5140
-#EXTINF: -1 tvg-id="cctv-2" tvg-name="CCTV-2(经济)" group-title="央视频道", CCTV-经济「高清」
+#EXTINF: -1 tvg-id="cctv-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" tvg-name="CCTV-2(经济)" group-title="央视频道", CCTV-经济「高清」
 http://116.232.152.209:8888/udp/239.45.0.1:5140
-#EXTINF: -1 tvg-id="cctv-3" tvg-name="CCTV-3(综艺)" group-title="央视频道", CCTV-综艺「高清」
+#EXTINF: -1 tvg-id="cctv-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" tvg-name="CCTV-3(综艺)" group-title="央视频道", CCTV-综艺「高清」
 http://116.232.152.209:8888/udp/239.45.1.68:5140
-#EXTINF: -1 tvg-id="cctv-4" tvg-name="CCTV-4(国际)" group-title="央视频道", CCTV-国际「高清」
+#EXTINF: -1 tvg-id="cctv-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" tvg-name="CCTV-4(国际)" group-title="央视频道", CCTV-国际「高清」
 http://116.232.152.209:8888/udp/239.45.0.2:5140
-#EXTINF: -1 tvg-id="cctv-5" tvg-name="CCTV-5(体育)" group-title="央视频道", CCTV-体育「高清」
+#EXTINF: -1 tvg-id="cctv-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-name="CCTV-5(体育)" group-title="央视频道", CCTV-体育「高清」
 http://116.232.152.209:8888/udp/239.45.1.69:5140
-#EXTINF: -1 tvg-id="cctv-6" tvg-name="CCTV-6(电影)" group-title="央视频道", CCTV-电影「高清」
+#EXTINF: -1 tvg-id="cctv-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" tvg-name="CCTV-6(电影)" group-title="央视频道", CCTV-电影「高清」
 http://116.232.152.209:8888/udp/239.45.1.70:5140
-#EXTINF: -1 tvg-id="cctv-7" tvg-name="CCTV-7(国防军事)" group-title="央视频道", CCTV-国防军事「高清」
+#EXTINF: -1 tvg-id="cctv-7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" tvg-name="CCTV-7(国防军事)" group-title="央视频道", CCTV-国防军事「高清」
 http://116.232.152.209:8888/udp/239.45.3.56:5140
-#EXTINF: -1 tvg-id="cctv-8" tvg-name="CCTV-8(电视剧)" group-title="央视频道", CCTV-电视剧「高清」
+#EXTINF: -1 tvg-id="cctv-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" tvg-name="CCTV-8(电视剧)" group-title="央视频道", CCTV-电视剧「高清」
 http://116.232.152.209:8888/udp/239.45.1.71:5140
-#EXTINF: -1 tvg-id="cctv-9" tvg-name="CCTV-9(纪录)" group-title="央视频道", CCTV-记录「高清」
+#EXTINF: -1 tvg-id="cctv-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" tvg-name="CCTV-9(纪录)" group-title="央视频道", CCTV-记录「高清」
 http://116.232.152.209:8888/udp/239.45.3.4:5140
-#EXTINF: -1 tvg-id="cctv-10" tvg-name="CCTV-10(科技)" group-title="央视频道", CCTV-科技「高清」
+#EXTINF: -1 tvg-id="cctv-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" tvg-name="CCTV-10(科技)" group-title="央视频道", CCTV-科技「高清」
 http://116.232.152.209:8888/udp/239.45.3.8:5140
-#EXTINF: -1 tvg-id="cctv-11" tvg-name="CCTV-11(戏曲)" group-title="央视频道", CCTV-戏曲「标清」
+#EXTINF: -1 tvg-id="cctv-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" tvg-name="CCTV-11(戏曲)" group-title="央视频道", CCTV-戏曲「标清」
 http://116.232.152.209:8888/udp/239.45.1.196:5140
-#EXTINF: -1 tvg-id="cctv-12" tvg-name="CCTV-12(社会法制)" group-title="央视频道", CCTV-社会法治「高清」
+#EXTINF: -1 tvg-id="cctv-12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" tvg-name="CCTV-12(社会法制)" group-title="央视频道", CCTV-社会法治「高清」
 http://116.232.152.209:8888/udp/239.45.3.10:5140
-#EXTINF: -1 tvg-id="cctv-13" tvg-name="CCTV-13(新闻)" group-title="央视频道", CCTV-新闻「标清」
+#EXTINF: -1 tvg-id="cctv-13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" tvg-name="CCTV-13(新闻)" group-title="央视频道", CCTV-新闻「标清」
 http://116.232.152.209:8888/udp/239.45.1.198:5140
-#EXTINF: -1 tvg-id="cctv-14" tvg-name="CCTV-14(少儿)" group-title="央视频道", CCTV-少儿「高清」
+#EXTINF: -1 tvg-id="cctv-14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" tvg-name="CCTV-14(少儿)" group-title="央视频道", CCTV-少儿「高清」
 http://116.232.152.209:8888/udp/239.45.3.23:5140
-#EXTINF: -1 tvg-id="cctv-15" tvg-name="CCTV-15(音乐)" group-title="央视频道", CCTV-音乐「标清」
+#EXTINF: -1 tvg-id="cctv-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" tvg-name="CCTV-15(音乐)" group-title="央视频道", CCTV-音乐「标清」
 http://116.232.152.209:8888/udp/239.45.1.200:5140
-#EXTINF: -1 tvg-id="cctv-17" tvg-name="CCTV-17(农业农村)" group-title="央视频道", CCTV-农业农村「高清」
+#EXTINF: -1 tvg-id="cctv-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" tvg-name="CCTV-17(农业农村)" group-title="央视频道", CCTV-农业农村「高清」
 http://116.232.152.209:8888/udp/239.45.3.52:5140
-#EXTINF: -1 tvg-id="cctv9" tvg-name="CGTN" group-title="央视频道", CGTN「标清」
+#EXTINF: -1 tvg-id="cctv9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" tvg-name="CGTN" group-title="央视频道", CGTN「标清」
 http://116.232.152.209:8888/udp/239.45.1.194:5140
-#EXTINF: -1 tvg-id="dfws" tvg-name="东方卫视" group-title="上海文广", 东方卫视「高清」
+#EXTINF: -1 tvg-id="dfws" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" tvg-name="东方卫视" group-title="上海文广", 东方卫视「高清」
 http://116.232.152.209:8888/udp/239.45.3.146:5140
 #EXTINF: -1 tvg-id="shanghaixinwen" tvg-name="上海新闻" group-title="上海文广", 新闻综合「高清」
 http://116.232.152.209:8888/udp/239.45.3.209:5140
@@ -177,9 +177,9 @@ http://116.232.152.209:8888/udp/239.45.1.10:5140
 http://116.232.152.209:8888/udp/239.45.1.11:5140
 #EXTINF: -1 tvg-name="百事通纪实" group-title="百事通", 百事通纪实「标清」
 http://116.232.152.209:8888/udp/239.45.1.103:5140
-#EXTINF: -1 tvg-name="凤凰资讯" group-title="港澳台", 凤凰资讯
+#EXTINF: -1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" group-title="港澳台", 凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF: -1 tvg-name="凤凰中文" group-title="港澳台", 凤凰中文
+#EXTINF: -1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png" group-title="港澳台", 凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF: -1 tvg-name="TVBS HD" group-title="港澳台", TVBS HD
+#EXTINF: -1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.com/tv/tvbs.png" group-title="港澳台", TVBS HD
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
