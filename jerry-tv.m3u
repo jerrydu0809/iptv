@@ -177,7 +177,7 @@ http://116.232.152.209:8888/udp/239.45.1.10:5140
 http://116.232.152.209:8888/udp/239.45.1.11:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通", 百事通纪实「标清」
 http://116.232.152.209:8888/udp/239.45.1.103:5140
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" group-title="港澳台", 凤凰资讯
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" group-title="港澳台", 凤凰资讯
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png" group-title="港澳台", 凤凰中文
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
