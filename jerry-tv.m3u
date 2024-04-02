@@ -184,4 +184,4 @@ http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/tvbs.png" group-title="港澳台", TVBS HD
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" group-title="港澳台", 中天新闻
-http://223.71.206.22:30080/TW/ztxw/hls.m3u8
+http://211.72.65.236:8541/.m3u8
