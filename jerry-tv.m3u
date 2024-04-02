@@ -183,5 +183,9 @@ http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.com/tv/tvbs亚洲.png" group-title="港澳台", TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/tvbs新闻.png" group-title="港澳台", TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台", 民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港澳台", 台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻美洲" group-title="港澳台", 东森新闻美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
