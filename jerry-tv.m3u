@@ -181,15 +181,57 @@ http://116.232.35.114:8888/udp/239.45.1.103:5140
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png" group-title="港澳台", 凤凰中文
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.com/tv/tvbs亚洲.png" group-title="港澳台", TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港澳台", 中天新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻2" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港澳台", 中天新闻台2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="港澳台", 中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳台", TVBS新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台", 民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港澳台", 台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东森新闻美洲" group-title="港澳台", 东森新闻美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://live.fanmingming.com/tv/HBOHD.png" group-title="港澳台", HBO HD
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 tvg-id="" tvg-name="三立电视" https://live.fanmingming.com/tv/SETZonghe.png" group-title="港澳台", 三立电视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="港澳台", 三立新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="港澳台", 寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="寰宇财经台" group-title="港澳台", 寰宇财经台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/EBCFinancialNews.png" group-title="港澳台", 东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="华视CTS" tvg-logo="https://live.fanmingming.com/tv/CTS.png" group-title="港澳台", 华视CTS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中天亚洲台" tvg-logo="http://www.tvyan.com/uploads/dianshi/ctiasia.jpg" group-title="港澳台", 中天亚洲台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.com/tv/tvbs亚洲.png" group-title="港澳台", TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://s.abcnews.com/assets/dtci/icomoon/svg/logo.svg" group-title="海外频道", ABC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="大爱电视" tvg-logo=https://live.fanmingming.com/tv/daai.png" group-title="港澳台", 大爱电视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="大爱电视2" tvg-logo=https://live.fanmingming.com/tv/daai2.png" group-title="港澳台", 大爱电视2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="八大电视" group-title="港澳台", 八大电视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="https://live.fanmingming.com/tv/SkyNews.png" group-title="海外频道", Sky News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro News" tvg-logo="https://live.fanmingming.com/tv/euronews.png" group-title="海外频道", Euro News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://live.fanmingming.com/tv/france24.png" group-title="海外频道", FRANCE 24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC News" tvg-logo="https://www.nbc.com/generetic/generated/images/88e243732529f35b45f990fcb2125014.png" group-title="海外频道", NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang Korea" tvg-logo="https://live.fanmingming.com/tv/ArirangTV.png" group-title="海外频道", Arirang Korea
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.svg?v=1" group-title="海外频道", CNA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="半岛电视台" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="海外频道", 半岛电视台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW News" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="海外频道", DW News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://live.fanmingming.com/tv/HBOHD.png" group-title="海外频道", HBO HD
+https://edge1.laotv.la/live/HBO/index.m3u8
