@@ -223,7 +223,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://live.fanmingming.com/tv/france24.png" group-title="海外频道", FRANCE 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC News" tvg-logo="https://www.nbc.com/generetic/generated/images/88e243732529f35b45f990fcb2125014.png" group-title="海外频道", NBC News
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Now" tvg-logo="https://www.nbc.com/generetic/generated/images/88e243732529f35b45f990fcb2125014.png" group-title="海外频道", NBC News Now
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arirang Korea" tvg-logo="https://live.fanmingming.com/tv/ArirangTV.png" group-title="海外频道", Arirang Korea
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
