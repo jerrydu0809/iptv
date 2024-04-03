@@ -191,3 +191,5 @@ http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻美洲" group-title="港澳台", 东森新闻美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://live.fanmingming.com/tv/HBOHD.png" group-title="港澳台", HBO HD
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
