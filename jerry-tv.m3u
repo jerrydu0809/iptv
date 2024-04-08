@@ -233,5 +233,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW News" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="海外频道", DW News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="海外频道", BBC World
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="海外频道", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg" group-title="海外频道", KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="海外频道", NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://live.fanmingming.com/tv/HBOHD.png" group-title="海外频道", HBO HD
 https://edge1.laotv.la/live/HBO/index.m3u8
